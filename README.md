@@ -189,11 +189,10 @@ Milestone 3: Shamir Secret Sharing and ZK Recovery Service
   - ZK Recovery Service with proof-of-concept integration.
 - Timeframe: Month 4-5
 
-Milestone 4: Smart OTPs Integration and DEX Integration
+Milestone 4: Smart OTPs Integration
 
 - Deliverables:
   - Smart OTP feature fully developed and integrated.
-  - Existing DEX integrated with zkWallet contracts.
 - Timeframe: Month 5-6
   
 ## Phase 3 DEX Integration, $44,000
